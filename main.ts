@@ -3,7 +3,7 @@
 let started: boolean = false
 let guessArray: number[] = []
 let userGuess: number[] = []
-let guessLength: number = 4
+let guessLength: number = 5
 let repeated: boolean = false
 basic.showIcon(IconNames.Happy)
 
